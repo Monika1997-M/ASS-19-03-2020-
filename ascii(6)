@@ -1,0 +1,12 @@
+public class ASCII {
+
+	public static void main(String[] String) {
+		int chr = 'd';
+		int a=3;
+		int b=a+chr;
+		if(b==103)
+		{
+		    System.out.println("g:" +b );
+		}
+	}
+}
